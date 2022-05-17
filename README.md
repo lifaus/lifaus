@@ -23,4 +23,4 @@
 
 ## Связь со мной
 * [Telegram](https://t.me/lifaus)
-* [Instagram](https://instagram.com/lifaus)
+* [Instagram](https://instagram.com/lifausd)
