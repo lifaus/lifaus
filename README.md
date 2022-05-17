@@ -1,6 +1,6 @@
 ## Привет! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></img>
 
-[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=misstressq&count_private=true&show_icons=true&title_color=58a6ff&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifaus&count_private=true&show_icons=true&title_color=58a6ff&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Проекты
 
@@ -22,5 +22,5 @@
 ![visual studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)
 
 ## Связь со мной
-* [Telegram](https://t.me/misstressq)
-* [Instagram](https://instagram.com/misstressq)
+* [Telegram](https://t.me/lifaus)
+* [Instagram](https://instagram.com/lifaus)
